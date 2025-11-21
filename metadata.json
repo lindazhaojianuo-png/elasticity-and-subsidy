@@ -1,0 +1,5 @@
+{
+  "name": "EconViz: Subsidy Impact Analyzer",
+  "description": "An interactive dual-panel economic visualization tool to compare the impact of government subsidies on expenditure under varying Price Elasticities of Demand (PED) and Supply (PES). Features AI-powered analysis.",
+  "requestFramePermissions": []
+}
